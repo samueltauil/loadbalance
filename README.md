@@ -1,5 +1,7 @@
 # OCP loadbalance sample demo 
 
+[![watch the full asciicast](https://asciinema.org/a/90122)]
+
 1. Create the app :
 
   ```
